@@ -1,4 +1,4 @@
-# Market Closet
+# Smart Closet
 
 O nosso projeto visa resolver o problema dos usuários quando decidem viajar.
 Como ele vai fazer isso:
