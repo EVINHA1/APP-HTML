@@ -11,7 +11,7 @@ Como ele vai fazer isso:
 3° O App deverá conhecer o estilo da pessoa, quais são suas preferência e gostos. 
 	Para isso terá um formulário inicial de estilo.
 
-4° Deverá com essas informações 
+4° Deverá com essas informações indicar as melhores peças para a sua viagem.
 
 A landing page template.
 
