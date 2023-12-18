@@ -23,3 +23,7 @@ A landing page template.
 ## Link Projeto
 
 https://virgil-almeida.github.io/APP-HTML/
+
+## Link Apresentação
+
+https://docs.google.com/presentation/d/1Hi1610ZwKdqqhyvx1KG59XPR0VEgdpT65-XngpT9DtQ/edit?usp=sharing
